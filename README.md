@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently studdying at neuefische to become a webdeveloper!
+I am currently studying at neuefische to become a webdeveloper!
 
 [![mLolaMaria's github stats](https://github-readme-stats.vercel.app/api?username=LolaMaria)](https://github.com/anuraghazra/github-readme-stats)
 <!--
