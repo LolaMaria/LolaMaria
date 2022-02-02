@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello :) 
 I am currently studying at <a href=https://www.neuefische.de/weiterbildung/web-development>neuefische<a/> to become a webdeveloper!
 
 [![mLolaMaria's github stats](https://github-readme-stats.vercel.app/api?username=LolaMaria)](https://github.com/anuraghazra/github-readme-stats)
